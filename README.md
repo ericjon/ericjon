@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eric, and I've operated as a senior full-stack developer for the past 10 years. Combined with my B.Sc. in Computer Engineering, those years have allowed me to build skills as a full-stack developer, specializing in React & React Native. I really love my work and that passion is reflected in the quality of my code.
+My name is Josh, and I've operated as a senior full-stack developer for the past 10 years. Combined with my B.Sc. in Computer Engineering, those years have allowed me to build skills as a full-stack developer, specializing in React & React Native. I really love my work and that passion is reflected in the quality of my code.
 
 Tech Stacks:
 - React, Angular, Vue, Next, Node, Express, Tailwind, Material, Bootstrap, jQuery
